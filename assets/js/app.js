@@ -107,7 +107,7 @@ yText
     .attr("data-name", "smokes")
     .attr("data-axis", "y")
     .attr("class", "aText inactive y")
-    .text("Smokes (%)");
+    .text("Smokers (%)");
 
 // Lack Healthcare
 yText
